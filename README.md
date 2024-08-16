@@ -6,5 +6,6 @@
 # 说明
 - 代码比较简单，直接阅读即可
 - 时间久远，部分代码上传不齐
+- medicines_data2为数据集
 
 联系方式：HBU_ZhangChen@163.com
